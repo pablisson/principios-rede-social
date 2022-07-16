@@ -8,7 +8,7 @@ export function Header(){
     <>
       <header className={ styles.header }>
         <img src={igniteLogo} alt="Logo" />
-        <strong >Feed</strong>
+        <strong ></strong>
       </header>
     
     </>
